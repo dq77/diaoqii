@@ -89,7 +89,7 @@ class DqJianLi extends React.Component {
               <div className="row"><div className="dot" /><div className="skill">负责伴考云数据的前端页面展示及调试，使用 Echart、highchart 等技术，实现动态的数据展示及用户交互。</div></div>
               <div className="expTitle">项目经验</div>
               <div className="row"><div className="skill">1. 东软睿云网 <a href="http://ry.com.cn">http://www.ry.com.cn</a> <br />账号：stu01@ry.com.cn 密码：123456</div></div>
-              <div className="row"><div className="skill">2. 教师报告、伴考云数据等页面 <a href="http://m.diaoqii.xyz/">http://m.diaoqii.xyz/</a></div></div>
+              <div className="row"><div className="skill">2. 教师报告、伴考云数据等页面 <a href="http://m.diaoqii.xyz/#/webList">http://m.diaoqii.xyz/#/webList</a></div></div>
               <div className="skill-total">技术栈：<span style={{'color': '#AAA'}}>Vue + Element + Vuex + Echart</span></div>
             </div>
           </div>
@@ -117,7 +117,7 @@ class DqJianLi extends React.Component {
               <div className="row"><div className="dot" /><div className="skill">1.后台管理系统:商家管理，商品管理，以及商品优惠券、促销活动等功能。</div></div>
               <div className="row"><div className="dot" /><div className="skill">2.前台系统:用户可以在前台系统中进行注册、登录、浏览商品、查看评价、交流经验等操作。</div></div>
               <div className="row"><div className="dot" /><div className="skill">3.主要技术:用户端：React, 管理后台：Vue + Element</div></div>
-              <div className="row"><div className="dot" /><div className="skill">4.官网预览：<a href="http://m.diaoqii.xyz/">http://m.diaoqii.xyz/</a>(移动端适配)。或者扫描下方二维码查看。</div></div>
+              <div className="row"><div className="dot" /><div className="skill">4.官网预览：<a href="http://m.diaoqii.xyz/mc">http://m.diaoqii.xyz/mc</a>(移动端适配)。或者扫描下方二维码查看。</div></div>
               <div className="qrcode-area">
                 <img className="xiaolan" src={MeicangQrCode} alt="avator" />
               </div>
