@@ -96,6 +96,18 @@
         line-height: 26px;
         margin-top: 6px;
       }
+      .qrcode-area{
+        display: flex;
+        justify-content: space-around;
+        .xiaolan{
+          margin-top: 15px;
+          width: 129px;
+          height: 129px;
+        }
+        .taozugong{
+          width: 129px;
+        }
+      }
       .expInfo{
         line-height: 24px;
         margin-left: 12px;
