@@ -16,8 +16,7 @@ class DqJianLi extends React.Component {
     }
   }
   componentDidMount() {
-    document.title = '刁琪在线简历 - JAVA开发'
-    document.title = '22222222'
+    document.title = '刁琪在线简历 - 前端开发'
   }
 
 
