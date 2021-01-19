@@ -43,7 +43,7 @@ class DqJianLi extends React.Component {
               <div className="title">个人介绍</div>
               <div className="row"><div className="dot" /><div className="skill">四年前端开发工作经验。精通 Angular4、Vue、TypeScript、ES6 以及 Webpack 等开发单页面应用所需技术。</div></div>
               <div className="row"><div className="dot" /><div className="skill">熟悉 React 以及 React Native，有 React 开发经验。</div></div>
-              <div className="row"><div className="dot" /><div className="skill">熟悉 ionic 混合 APP 开发。熟悉微信小程序开发。</div></div>
+              <div className="row"><div className="dot" /><div className="skill">熟悉 Taro 混合 APP 开发。熟悉支付宝微信小程序开发。</div></div>
               <div className="row"><div className="dot" /><div className="skill">熟悉 Nodejs + MySQL，能独立搭建前中后全栈项目</div></div>
               <div className="row"><div className="dot" /><div className="skill">熟悉网络爬虫技术。熟悉人工智能、机器学习技术，使用过 Python3+TensorFlow</div></div>
               <div className="row"><div className="dot" /><div className="skill">从事过智能教育、医疗大数据、互联网金融行业，带过五人前端团队，对互联网新技术有较高的热情。</div></div>
@@ -53,12 +53,12 @@ class DqJianLi extends React.Component {
           <div className="item item-exprience">
             <div className="content">
               <div className="expTitle">工作经历</div>
-              <div className="exprience-title title">杭州淘租公科技有限公司<span style={{'color': '#AAA','float': 'right'}}> &nbsp; &nbsp; &nbsp; &nbsp; 2019.07 - 2020.10</span></div>
+              <div className="exprience-title title">杭州淘租公科技有限公司<span style={{'color': '#AAA','float': 'right'}}> &nbsp; &nbsp; &nbsp; &nbsp; 2019.07 - 2021.02</span></div>
               <div className="expInfo">技术部 &nbsp; &nbsp; &nbsp; 前端开发 &nbsp; &nbsp; &nbsp; 电子商务 &nbsp; &nbsp; &nbsp; 互联网金融</div>
+              <div className="row"><div className="dot" /><div className="skill">负责公司支付宝及微信渠道的小程序开发，以及混合式APP开发，技术栈：Taro + React。</div></div>
+              <div className="row"><div className="dot" /><div className="skill">负责团队后台系统的编写调试修改维护，搭建整体的后台项目，使用Vue Element ES6。</div></div>
+              <div className="row"><div className="dot" /><div className="skill">负责公司数据统计站点后台编写，负责全部对应的数据系统。技术栈：Node + express。</div></div>
               <div className="row"><div className="dot" /><div className="skill">负责带领部门前端团队，人员招聘面试及成员的培养。</div></div>
-              <div className="row"><div className="dot" /><div className="skill">负责公司海外租赁产品的编写（加拿大、美国），以及加拿大APP开发，技术栈：Flutter + Dart。</div></div>
-              <div className="row"><div className="dot" /><div className="skill">负责加拿大管理后台的编写及维护，负责Nodejs中层开发，使用 Vue + Element + Koa。</div></div>
-              <div className="row"><div className="dot" /><div className="skill">负责国内支付宝小程序的编写及微信小程序的编写，负责全部对应的后台管理系统。技术栈：Taro + React + Dva。</div></div>
               <div className="expTitle">项目经验</div>
               <div className="row"><div className="skill">1. 淘租公小程序是一个数码产品租赁、售卖的一站式服务平台，使用Taro统一支付宝及微信渠道，支持花呗分期付款。支付宝搜索淘租公</div></div>
               <div className="row"><div className="skill">2. 小兰智选微信小程序是微信内的推广渠道，目前日活一千人左右。微信搜索小兰智选</div></div>
@@ -157,7 +157,7 @@ class DqJianLi extends React.Component {
               <div className="row"> <div className="dot" /><div className="skill">个人 GitHub 地址: <a href="https://github.com/dq77/">https://github.com/dq77/</a></div></div>
               <div className="row"> <div className="dot" /><div className="skill">个人 CSDN 博客地址: <a href="https://blog.csdn.net/a270778319">https://blog.csdn.net/a270778319</a></div></div>
               <div className="row"> <div className="dot" /><div className="skill">目前个人还有两个正在开发的微信小程序，一个后台管理系统，均在 GitHub 上有项目</div></div>
-              <div className="row"> <div className="dot" /><div className="skill">小程序“减肥助手“（开发中）<a href="https://github.com/nujnay/lose_weight_wechat">https://github.com/nujnay/lose_weight_wechat</a></div></div>
+              <div className="row"> <div className="dot" /><div className="skill">小程序“减肥助手“（开发中）<a href="https://github.com/dq77/lose-weight-weapp">https://github.com/dq77/lose-weight-weapp</a></div></div>
             </div>
           </div>
 
@@ -171,7 +171,7 @@ class DqJianLi extends React.Component {
               <div className="exprience-title title">教育经历</div>
               <div className="row"> <div className="dot" /><div className="skill">2013.09 - 2017.07 &nbsp; 沈阳理工大学(本科一批段)</div></div>
               <div className="exprience-title title">自我评价</div>
-              <div className="remark">四年前端开发工作经验。精通前后端分离开发模式，精通 Angular4、TypeScript、ES6 以及 Vue 开发单页面应用，精通 ionic 混合 APP 开发。熟悉微信小程序开发，熟悉 Nodejs+MySQL，熟悉 React 以及 React Native。从事过智能教育、医疗大数据、互联网金融行业，对新技术有较高的热情。</div>
+              <div className="remark">四年前端开发工作经验。精通前后端分离开发模式，精通 Angular4、TypeScript、ES6 以及 Vue 开发单页面应用，精通 Taro 混合 APP 开发。熟悉微信小程序开发，熟悉 Nodejs+MySQL，熟悉 React 以及 React Native。从事过智能教育、医疗大数据、互联网金融行业，对新技术有较高的热情。</div>
             </div>
           </div>
       </div>
