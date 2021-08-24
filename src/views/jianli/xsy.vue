@@ -108,51 +108,51 @@ export default {
 .jianLiPage{
   color: #333;
   .item {
-    line-height: 36px;
-    padding: 10px;
+    line-height: 0.72rem;
+    padding: 0.2rem;
     display: flex;
     flex-direction: column;
     .content{
       flex: 1 0 auto;
       background-color: #FFF;
-      padding: 10px;
+      padding: 0.2rem;
       position: relative;
       .title{
         color: #222;
-        font-size: 16px;
-        line-height: 20px;
-        padding-left: 6px;
-        border-left: 6px solid rgb(26, 174, 84);
-        margin: 10px 0;
+        font-size: 0.32rem;
+        line-height: 0.4rem;
+        padding-left: 0.12rem;
+        border-left: 0.12rem solid rgb(26, 174, 84);
+        margin: 0.2rem 0;
       }
       .row{
         .key{
           display: inline-block;
-          width: 80px;
+          width: 1.6rem;
         }
         .value{
           display: inline-block;
-          padding-left: 10px;
+          padding-left: 0.2rem;
         }
       }
       .avator{
         position: absolute;
-        top: 10px;
-        right: 10px;
-        width: 100px;
+        top: 0.2rem;
+        right: 0.2rem;
+        width: 2rem;
       }
     }
     .more-arr {
       background-color: #C0C4CC;
-      box-shadow: #909399 6px 6px 6px;
-      padding: 10px;
-      font-size: 22px;
+      box-shadow: #909399 0.12rem 0.12rem 0.12rem;
+      padding: 0.2rem;
+      font-size: 0.44rem;
       writing-mode: vertical-rl;
       color: #FFF;
       text-align: center;
       position: absolute;
-      line-height: 26px;
-      bottom: 30px;
+      line-height: 20.12rem;
+      bottom: 0.6rem;
       left: 44%;
     }
   }
@@ -163,17 +163,17 @@ export default {
     .dot{
       flex-shrink: 0;
       display: inline-block;
-      width: 10px;
-      height: 10px;
-      margin-top: 7px;
+      width: 0.2rem;
+      height: 0.2rem;
+      margin-top: 0.14rem;
       background-color: #67C23A;
-      border-radius: 10px;
+      border-radius: 0.2rem;
     }
     .skill{
       display: inline-block;
-      margin-left: 10px;
-      line-height: 28px;
-      margin-bottom: 4px;
+      margin-left: 0.2rem;
+      line-height: 0.56rem;
+      margin-bottom: 0.08rem;
     }
   }
   .item-exprience{
@@ -184,27 +184,27 @@ export default {
     .dot{
       flex-shrink: 0;
       display: inline-block;
-      width: 10px;
-      height: 10px;
-      margin-top: 7px;
+      width: 0.2rem;
+      height: 0.2rem;
+      margin-top: 0.14rem;
       background-color: #67C23A;
-      border-radius: 10px;
+      border-radius: 0.2rem;
     }
     .skill{
       display: inline-block;
-      margin-left: 10px;
-      line-height: 26px;
-      margin-bottom: 4px;
+      margin-left: 0.2rem;
+      line-height: 0.52rem;
+      margin-bottom: 0.08rem;
     }
     .expTitle{
       font-weight: bold;
     }
     .expInfo{
-      line-height: 24px;
+      line-height: 0.48rem;
     }
     .content .exprience-title{
-      font-size: 14px;
-      margin: 20px 0;
+      font-size: 0.28rem;
+      margin: 0.4rem 0;
       font-weight: bold;
       .t863{
         color: #AAA;
@@ -218,17 +218,17 @@ export default {
     .dot{
       flex-shrink: 0;
       display: inline-block;
-      width: 10px;
-      height: 10px;
-      margin-top: 7px;
+      width: 0.2rem;
+      height: 0.2rem;
+      margin-top: 0.14rem;
       background-color: #67C23A;
-      border-radius: 10px;
+      border-radius: 0.2rem;
     }
     .skill{
       display: inline-block;
-      margin-left: 10px;
-      line-height: 28px;
-      margin-bottom: 4px;
+      margin-left: 0.2rem;
+      line-height: 0.56rem;
+      margin-bottom: 0.08rem;
     }
   }
 }

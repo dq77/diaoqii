@@ -166,50 +166,50 @@ export default {
 .jianLiPage{
   color: #333;
     .item {
-      line-height: 36px;
-      padding: 10px;
+      line-height: 0.72rem;
+      padding: 0.2rem;
       .content{
         background-color: #FFF;
-        padding: 10px;
+        padding: 0.2rem;
         position: relative;
         .title{
           color: #222;
-          font-size: 16px;
-          line-height: 20px;
-          padding-left: 6px;
-          border-left: 6px solid rgb(26, 174, 84);
-          margin: 10px 0;
+          font-size: 0.32rem;
+          line-height: 0.4rem;
+          padding-left: 0.12rem;
+          border-left: 0.12rem solid rgb(26, 174, 84);
+          margin: 0.2rem 0;
         }
         .row{
           .key{
             display: inline-block;
-            width: 80px;
+            width: 1.6rem;
           }
           .value{
             display: inline-block;
-            padding-left: 10px;
+            padding-left: 0.2rem;
           }
         }
         .avator{
           position: absolute;
-          top: 10px;
-          right: 10px;
-          width: 100px;
+          top: 0.2rem;
+          right: 0.2rem;
+          width: 2rem;
         }
         .dot{
           flex-shrink: 0;
           display: inline-block;
-          width: 10px;
-          height: 10px;
-          margin-top: 7px;
+          width: 0.2rem;
+          height: 0.2rem;
+          margin-top: 0.14rem;
           background-color: #67C23A;
-          border-radius: 10px;
+          border-radius: 0.2rem;
         }
         .skill{
           display: inline-block;
-          margin-left: 10px;
-          line-height: 28px;
-          margin-bottom: 4px;
+          margin-left: 0.2rem;
+          line-height: 0.56rem;
+          margin-bottom: 0.08rem;
         }
       }
     }
@@ -220,17 +220,17 @@ export default {
       .dot{
         flex-shrink: 0;
         display: inline-block;
-        width: 10px;
-        height: 10px;
-        margin-top: 7px;
+        width: 0.2rem;
+        height: 0.2rem;
+        margin-top: 0.14rem;
         background-color: #67C23A;
-        border-radius: 10px;
+        border-radius: 0.2rem;
       }
       .skill{
         display: inline-block;
-        margin-left: 10px;
-        line-height: 28px;
-        margin-bottom: 4px;
+        margin-left: 0.2rem;
+        line-height: 0.56rem;
+        margin-bottom: 0.08rem;
       }
     }
     .item-exprience{
@@ -241,47 +241,47 @@ export default {
       .dot{
         flex-shrink: 0;
         display: inline-block;
-        width: 10px;
-        height: 10px;
-        margin-top: 7px;
+        width: 0.2rem;
+        height: 0.2rem;
+        margin-top: 0.14rem;
         background-color: #67C23A;
-        border-radius: 10px;
+        border-radius: 0.2rem;
       }
       .skill{
         display: inline-block;
-        margin-left: 10px;
-        line-height: 26px;
-        margin-bottom: 4px;
+        margin-left: 0.2rem;
+        line-height: 0.52rem;
+        margin-bottom: 0.08rem;
       }
       .expTitle{
         font-weight: bold;
       }
       .skill-total{
         font-weight: bold;
-        line-height: 26px;
-        margin-top: 6px;
+        line-height: 0.52rem;
+        margin-top: 0.12rem;
       }
       .qrcode-area{
         display: flex;
         justify-content: space-around;
         .xiaolan{
-          margin-top: 15px;
-          width: 129px;
-          height: 129px;
+          margin-top: 0.3rem;
+          width: 2.58rem;
+          height: 2.58rem;
         }
         .taozugong{
-          width: 129px;
+          width: 2.58rem;
         }
       }
       .expInfo{
-        line-height: 24px;
-        margin-left: 12px;
-        margin-bottom: 4px;
+        line-height: 0.48rem;
+        margin-left: 0.24rem;
+        margin-bottom: 0.08rem;
         color: #AAA;
       }
       .content .exprience-title{
-        font-size: 14px;
-        margin: 20px 0 4px;
+        font-size: 0.28rem;
+        margin: 0.4rem 0 0.08rem;
         font-weight: bold;
         .t863{
           color: #AAA;
@@ -295,17 +295,17 @@ export default {
       .dot{
         flex-shrink: 0;
         display: inline-block;
-        width: 10px;
-        height: 10px;
-        margin-top: 7px;
+        width: 0.2rem;
+        height: 0.2rem;
+        margin-top: 0.14rem;
         background-color: #67C23A;
-        border-radius: 10px;
+        border-radius: 0.2rem;
       }
       .skill{
         display: inline-block;
-        margin-left: 10px;
-        line-height: 28px;
-        margin-bottom: 4px;
+        margin-left: 0.2rem;
+        line-height: 0.56rem;
+        margin-bottom: 0.08rem;
       }
     }
 }

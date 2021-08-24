@@ -43,8 +43,8 @@ export default {
   background-color: #fff;
   .top-swipe {
     color: #fff;
-    font-size: 20px;
-    line-height: 170px;
+    font-size: 0.4rem;
+    line-height: 3.4rem;
     text-align: center;
     background-color: #39a9ed;
   }

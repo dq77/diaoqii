@@ -7,3 +7,4 @@ yarn
 yarn serve
 ```
 
+本项目使用rem全局自适应 设计稿宽度750

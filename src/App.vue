@@ -12,7 +12,7 @@
   background-color: #f5f5f9;
   display: flex;
   flex-direction: column;
-  font-size: 14px;
+  font-size: 0.28rem;
 }
 #app > div {
   flex: 1 0 auto;
