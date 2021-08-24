@@ -1,6 +1,6 @@
 <template>
-  <div class="user">
-    <Button type="primary">登录</Button>
+  <div class="cate">
+    <span>cate</span>
     <Tabbar v-model="activeTab" route>
       <Tabbar-item name='home' replace to="/" icon="home-o">首页</Tabbar-item>
       <Tabbar-item name='cate' replace to="/cate" icon="search">分类</Tabbar-item>
@@ -11,14 +11,14 @@
 
 <script>
 import { ref } from 'vue';
-import { Tabbar, TabbarItem, Button } from 'vant';
+import { Tabbar, TabbarItem } from 'vant';
 
 export default {
   components: {
-    Button, Tabbar, TabbarItem
+    Tabbar, TabbarItem
   },
   setup() {
-    const activeTab = ref('user');
+    const activeTab = ref('cate');
     return {
       activeTab
     };
