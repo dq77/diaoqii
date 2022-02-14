@@ -8,7 +8,7 @@
               <div class="row"><div class="key">民族: </div><div class="value"> 汉</div></div>
               <div class="row"><div class="key">学历: </div><div class="value"> 统招本科</div></div>
               <div class="row"><div class="key">联系方式: </div><div class="value"> 17609885098</div></div>
-              <div class="row"><div class="key">现居地址: </div><div class="value"> 浙江省杭州市</div></div>
+              <div class="row"><div class="key">现居地址: </div><div class="value"> 辽宁省沈阳市</div></div>
               <div class="row"><div class="key">电子邮箱: </div><div class="value"> diaoqi_7@163.com</div></div>
               <div class="row"><div class="key">毕业学校: </div><div class="value"> 沈阳理工大学</div></div>
               <img class="avator" src='../../assets/image/jianLi/diaoqi.png' alt="avator" />
@@ -17,11 +17,11 @@
           <div class="item item-skill">
             <div class="content">
               <div class="title">个人介绍</div>
-              <div class="row"><div class="dot" /><div class="skill">四年前端开发工作经验。精通 Angular4、Vue、TypeScript、ES6 以及 Webpack 等开发单页面应用所需技术。</div></div>
-              <div class="row"><div class="dot" /><div class="skill">熟悉 React 以及 React Native，有 React 开发经验。</div></div>
-              <div class="row"><div class="dot" /><div class="skill">熟悉 Taro 混合 APP 开发。熟悉支付宝微信小程序开发。</div></div>
-              <div class="row"><div class="dot" /><div class="skill">熟悉 Nodejs + MySQL，能独立搭建前中后全栈项目</div></div>
-              <div class="row"><div class="dot" /><div class="skill">熟悉网络爬虫技术。熟悉人工智能、机器学习技术，使用过 Python3+TensorFlow</div></div>
+              <div class="row"><div class="dot" /><div class="skill">五年前端开发工作经验。精通Angular4、Vue3、TypeScript、ES6以及Webpack等开发单页面应用所需技术。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">熟悉 React 以及React Native，有React开发经验。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">熟悉 Taro 混合APP开发。熟悉支付宝微信小程序开发。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">熟悉 Nodejs + MySQL ，能独立搭建前中后全栈项目。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">熟悉网络爬虫技术。熟悉人工智能、机器学习技术，使用过 Python3 + TensorFlow。</div></div>
               <div class="row"><div class="dot" /><div class="skill">从事过智能教育、医疗大数据、互联网金融行业，带过五人前端团队，对互联网新技术有较高的热情。</div></div>
             </div>
           </div>
@@ -29,23 +29,21 @@
           <div class="item item-exprience">
             <div class="content">
               <div class="expTitle">工作经历</div>
-              <div class="exprience-title title">杭州淘租公科技有限公司<span style="color: #AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2019.07 - 2021.02</span></div>
-              <div class="expInfo">技术部 &nbsp; &nbsp; &nbsp; 前端开发 &nbsp; &nbsp; &nbsp; 电子商务 &nbsp; &nbsp; &nbsp; 互联网金融</div>
+              <div class="exprience-title title">网筑集团有限公司<span style="color: #AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2021.01 - 2022.04</span></div>
+              <div class="expInfo">技术部 &nbsp; &nbsp; &nbsp; 前端开发 &nbsp; &nbsp; &nbsp; 互联网SaaS</div>
               <div class="row"><div class="dot" /><div class="skill">负责公司支付宝及微信渠道的小程序开发，以及混合式APP开发，技术栈：Taro + React。</div></div>
-              <div class="row"><div class="dot" /><div class="skill">负责团队后台系统的编写调试修改维护，搭建整体的后台项目，使用Vue Element ES6。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">负责团队后台系统的编写调试修改维护，搭建整体的后台项目，使用Vue3 ElementPlus ES6。</div></div>
               <div class="row"><div class="dot" /><div class="skill">负责公司数据统计站点后台编写，负责全部对应的数据系统。技术栈：Node + express。</div></div>
               <div class="row"><div class="dot" /><div class="skill">负责带领部门前端团队，人员招聘面试及成员的培养。</div></div>
               <div class="expTitle">项目经验</div>
-              <div class="row"><div class="skill">1. 淘租公小程序是一个数码产品租赁、售卖的一站式服务平台，使用Taro统一支付宝及微信渠道，支持花呗分期付款。支付宝搜索淘租公</div></div>
-              <div class="row"><div class="skill">2. 小兰智选微信小程序是微信内的推广渠道，目前日活一千人左右。微信搜索小兰智选</div></div>
-              <div class="row"><div class="skill">3. 淘租公APP是Flutter开发的跨IOS及安卓的原生应用，各大应用商店均可下载</div></div>
-              <div class="skill-total">技术栈：<span style="color: #AAA">Taro + React + Dva + TypeScript + Nodejs + Flutter</span></div>
+              <div class="row"><div class="skill">1. 仟金顶小程序是基于微信支付宝的互联网批发平台，并使用Taro打包安卓应用。</div></div>
+              <div class="skill-total">技术栈：<span style="color: #AAA">Taro2 + React + Vue3 + Dva + Nodejs</span></div>
             </div>
           </div>
 
           <div class="item item-exprience">
             <div class="content">
-              <div class="exprience-title title">浙江盘石股份有限公司<span style="color:#AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2018.04 - 2019.07</span></div>
+              <div class="exprience-title title">浙江盘石股份有限公司<span style="color:#AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2018.04 - 2021.01</span></div>
               <div class="expInfo">互金二部 &nbsp; &nbsp; &nbsp; &nbsp; 前端开发 &nbsp; &nbsp; &nbsp; &nbsp; 互联网金融</div>
               <div class="row"><div class="dot" /><div class="skill">负责公司海外现金贷产品的编写（巴西、墨西哥、印尼），以及混合式 APP 开发，技术栈：ionic + cordova。</div></div>
               <div class="row"><div class="dot" /><div class="skill">负责团队后台系统的编写调试修改维护，搭建整体的后台项目，使用 Angular4 TypeScript ES6。</div></div>
@@ -59,13 +57,13 @@
           <div class="item item-exprience">
             <div class="content">
               <div class="exprience-title title">东软集团股份有限公司<span style="color:#AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2016.10 - 2018.04</span></div>
-              <div class="expInfo">熙康事业部 &nbsp; 睿云产品部 &nbsp; 互联网教育 &nbsp; 互联网医疗</div>
+              <div class="expInfo">睿云产品部 &nbsp; WEB前端开发 &nbsp; 互联网教育</div>
               <div class="row"><div class="dot" /><div class="skill">负责东软睿云 <a href="http://ry.com.cn">http://ry.com.cn</a> 的前端页面制作及实现 js 交互。使用 Bootstrap 开发睿云网对应的移动端网站，完成响应式布局，通过 ajax 调用 JAVA API 接口，增删改查数据。</div></div>
               <div class="row"><div class="dot" /><div class="skill">负责东软熙康医疗的医患管理系统编写和维护，及全套后台的维护，使用 jQuery、Echart 等技术。</div></div>
               <div class="row"><div class="dot" /><div class="skill">负责伴考云数据的前端页面展示及调试，使用 Echart、highchart 等技术，实现动态的数据展示及用户交互。</div></div>
               <div class="expTitle">项目经验</div>
               <div class="row"><div class="skill">1. 东软睿云网 <a href="http://ry.com.cn">http://www.ry.com.cn</a> <br />账号：stu01@ry.com.cn 密码：123456</div></div>
-              <div class="row"><div class="skill">2. 教师报告、伴考云数据等页面 <a href="http://m.diaoqii.xyz/#/webList">http://m.diaoqii.xyz/#/webList</a></div></div>
+              <div class="row"><div class="skill">2. 教师报告、伴考云数据等页面 <a href="https://diaoqi.gitee.io/">https://diaoqi.gitee.io/</a></div></div>
               <div class="skill-total">技术栈：<span style="color: #AAA">Vue + Element + Vuex + Echart</span></div>
             </div>
           </div>
@@ -73,15 +71,15 @@
           <div class="item item-exprience">
             <div class="content">
               <div class="expTitle">项目经历</div>
-              <div class="exprience-title title">淘租公租赁购物平台<span style="color:#AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2019.02 - 2020.10</span></div>
-              <div class="row"><div class="dot" /><div class="skill">项目简介:淘租公租赁购物平台是为当代年轻人提供的一站式设备信用免押租赁平台，以年轻人常用设备免押租赁为起点，覆盖数码科技、小型家电、旅游户外、工程机械、教科书及办公用品等产品，方便年轻人的居家办公生活。</div></div>
+              <div class="exprience-title title">仟金顶口袋通平台<span style="color:#AAA;float: right"> &nbsp; &nbsp; &nbsp; &nbsp; 2021.02 - 2021.10</span></div>
+              <div class="row"><div class="dot" /><div class="skill">项目简介:仟金顶口袋通平台是为建材企业提供的一站式设备信用免押租赁平台，以建筑常用设备免押租赁为起点，覆盖数码科技、小型家电、旅游户外、工程机械、教科书及办公用品等产品，方便企业的办公采购装修。</div></div>
               <div class="row"><div class="dot" /><div class="skill">1.后台管理系统:管理商品、订单、类目、商品规格属性、用户管理等功能。</div></div>
               <div class="row"><div class="dot" /><div class="skill">2.前台系统:用户可以在前台系统中进行注册、登录、浏览商品、首页、下单等操作。</div></div>
               <div class="row"><div class="dot" /><div class="skill">3.主要技术:用户端：Taro + React + Dva + Nodejs, 管理后台：Vue + Element + Koa</div></div>
-              <div class="row"><div class="dot" /><div class="skill">4.支付宝或微信扫描下方二维码查看详情。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">4.微信扫描下方二维码查看详情。</div></div>
               <div class="qrcode-area">
                 <img class="xiaolan" src='../../assets/image/jianLi/xiaolan.jpg' alt="avator" />
-                <img class="taozugong" src='../../assets/image/jianLi/taozugong.jpg' alt="avator" />
+                <img class="xiaolan" src='../../assets/image/jianLi/qianjinding.jpg' alt="avator" />
               </div>
             </div>
           </div>
@@ -93,7 +91,7 @@
               <div class="row"><div class="dot" /><div class="skill">1.后台管理系统:商家管理，商品管理，以及商品优惠券、促销活动等功能。</div></div>
               <div class="row"><div class="dot" /><div class="skill">2.前台系统:用户可以在前台系统中进行注册、登录、浏览商品、查看评价、交流经验等操作。</div></div>
               <div class="row"><div class="dot" /><div class="skill">3.主要技术:用户端：React, 管理后台：Vue + Element</div></div>
-              <div class="row"><div class="dot" /><div class="skill">4.官网预览：<a href="http://m.diaoqii.xyz/mc">http://m.diaoqii.xyz/mc</a>(移动端适配)。或者扫描下方二维码查看。</div></div>
+              <div class="row"><div class="dot" /><div class="skill">4.官网预览：<a href="https://diaoqi.gitee.io/mc-website/dist/index.html">点击这里</a>。或者扫描下方二维码查看。</div></div>
               <div class="qrcode-area">
                 <img class="xiaolan" src='../../assets/image/jianLi/meicang.png' alt="avator" />
               </div>
@@ -145,9 +143,9 @@
               <div class="row"> <div class="dot" /><div class="skill">2014.12 &nbsp; 大学英语等级考试四级证书</div></div>
               <div class="row"> <div class="dot" /><div class="skill">目前在考PMP项目管理资格证</div></div>
               <div class="exprience-title title">教育经历</div>
-              <div class="row"> <div class="dot" /><div class="skill">2013.09 - 2017.07 &nbsp; 沈阳理工大学(本科一批段)</div></div>
+              <div class="row"> <div class="dot" /><div class="skill">2013.09 - 2017.07 &nbsp; 沈阳理工大学</div></div>
               <div class="exprience-title title">自我评价</div>
-              <div class="remark">四年前端开发工作经验。精通前后端分离开发模式，精通 Angular4、TypeScript、ES6 以及 Vue 开发单页面应用，精通 Taro 混合 APP 开发。熟悉微信小程序开发，熟悉 Nodejs+MySQL，熟悉 React 以及 React Native。从事过智能教育、医疗大数据、互联网金融行业，对新技术有较高的热情。</div>
+              <div class="remark">五年前端开发工作经验。精通前后端分离开发模式，精通Angular4、TypeScript、ES6以及Vue3开发单页面应用，精通Taro混合APP开发。熟悉微信支付宝小程序开发，熟悉Nodejs+MySQL，熟悉React以及React Native。从事过智能教育、医疗大数据、互联网金融行业，对新技术有较高的热情。</div>
             </div>
           </div>
       </div>
@@ -268,9 +266,6 @@ export default {
           margin-top: 0.3rem;
           width: 2.58rem;
           height: 2.58rem;
-        }
-        .taozugong{
-          width: 2.58rem;
         }
       }
       .expInfo{
